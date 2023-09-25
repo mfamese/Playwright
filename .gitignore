@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+assets
+features
+@rerun.txt
+index.html
+/test-results/
+/playwright-report/
+/playwright/.cache/
